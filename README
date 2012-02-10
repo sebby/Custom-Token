@@ -1,0 +1,10 @@
+Drupal 7
+
+
+### Liste de liens utiles 
+[token](http://drupal.org/project/token)
+
+> Tokens are small bits of text that can be placed into larger documents via simple placeholders, like %site-name or [user]. The Token module provides a central API for modules to use these tokens, and expose their own token values.
+
+[token_custom](http://drupal.org/project/token_custom)
+ > It gives the user the ability to create custom tokens for specific replacements that can improve other modules relying on the Drupal 7 token API or, for Drupal 6, the Token module.
